@@ -12,8 +12,8 @@
       <main>
         <div class="container">
   
-          <p>{{--Contenuto delle varie pagine--}}</p>
-  
+          @yield('content')
+
         </div>
       </main>
       @include('partials.footer')
