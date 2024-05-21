@@ -1,5 +1,5 @@
 <footer class="bg-dark">
-  <div class="container text-center text-white">
+  <div class="container text-center text-white py-2">
     <div class="mt-5">
       <ul class="list-group-flush">
         <li class="list-group-item"><h2>Contacts</h2></li>
