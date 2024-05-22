@@ -15,8 +15,22 @@
   </section>
   <section class="main-header">
     <div class="main-header container">
-      <div class="row">
-        WHITE RECTANGLE
+      <div class="row align-items-center justify-between">
+        <div class="col header-logo">
+          <img src="{{ Vite::asset('resources/img/dc-logo.png')}}" alt="">
+        </div>
+        <div class="col">
+          <ul class="d-flex flex-row">
+            <li>Ciao</li>
+            <li>dasd</li>
+            <li>asdasd</li>
+            <li>sdsd</li>
+            <li>asdad</li>
+          </ul>
+        </div>
+        <div class="col-3 text-end">
+          <span>Hi I am a searchbar</span>
+        </div>
       </div>
     </div>
   </section>
