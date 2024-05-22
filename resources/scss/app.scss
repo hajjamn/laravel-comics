@@ -1,4 +1,7 @@
 @use "~bootstrap/scss/bootstrap";
+@use "./partials/variables.scss";
+@use "./partials/header.scss";
+
 
 main {
   background-color: lightgray;

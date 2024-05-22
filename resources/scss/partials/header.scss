@@ -1,0 +1,22 @@
+header * {
+  list-style: none;
+}
+
+.smaller-header {
+  height: 25px;
+  background-color: var(--dc-brand);
+  color: white;
+}
+
+.small-header-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 60px
+}
+
+.main-header {
+  height: 115px;
+  background-color: var(--dc-light);
+}
